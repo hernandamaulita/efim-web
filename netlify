@@ -1,0 +1,5 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      383     382     382      18856  ?         197609   May 12 /c/Users/pf30a/AppData/Local/Programs/Microsoft VS Code/Code
+      441     388     441        300  cons0     197609 18:20:14 /usr/bin/PS
+      382       1     382      16868  ?         197609   May 12 /usr/bin/sh
+      388       1     388      25132  cons0     197609 18:20:09 /usr/bin/bash
