@@ -9,6 +9,6 @@
     "tailwindcss": "^4.1.4"
   },
   "scripts": {
-    "start": "node app.js"
+    "start": "node src/app.js"
   }
 }
